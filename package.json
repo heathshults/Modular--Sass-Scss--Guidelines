@@ -1,0 +1,27 @@
+{
+  "name": "modular--sass-scss--guidelines",
+  "version": "1.0.0",
+  "description": "Guidelines for creating elegant css code",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "testme"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heathshults/Modular--Sass-Scss--Guidelines.git"
+  },
+  "keywords": [
+    "modular-css"
+  ],
+  "author": "heath shults taken from css guidelines",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heathshults/Modular--Sass-Scss--Guidelines/issues"
+  },
+  "homepage": "https://github.com/heathshults/Modular--Sass-Scss--Guidelines#readme",
+  "devDependencies": {
+    "express": "^4.16.4",
+    "open": "0.0.5"
+  }
+}
